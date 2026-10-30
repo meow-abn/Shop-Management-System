@@ -66,8 +66,9 @@ Shop-Management-System/
 5. Run the `ShopGUI.java` file to launch the application.
 
 ## Screenshots
+<img width="1366" height="719" alt="{7CB4FFB0-189E-45DE-9714-CA1C6D4824B9}" src="https://github.com/user-attachments/assets/d805e643-c730-49b9-a3d6-c78112734382" />
+<img width="206" height="620" alt="{9D374748-2CD6-4603-AD19-42EF2810A134}" src="https://github.com/user-attachments/assets/dd37eaf7-6574-42a3-846e-5f1af500c888" />
 
-Screenshots of the application will be added here.
 
 ### Dashboard
 <!-- Add dashboard screenshot here -->
