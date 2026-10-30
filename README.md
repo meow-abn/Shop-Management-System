@@ -68,6 +68,7 @@ Shop-Management-System/
 ## Screenshots
 <img width="1366" height="719" alt="{7CB4FFB0-189E-45DE-9714-CA1C6D4824B9}" src="https://github.com/user-attachments/assets/d805e643-c730-49b9-a3d6-c78112734382" />
 <img width="206" height="620" alt="{9D374748-2CD6-4603-AD19-42EF2810A134}" src="https://github.com/user-attachments/assets/dd37eaf7-6574-42a3-846e-5f1af500c888" />
+<img width="1167" height="625" alt="{555FF1CF-B42F-411A-B17C-A7649BB1AC80}" src="https://github.com/user-attachments/assets/2a29ca5f-662b-46a6-ac91-aaf54aedb335" />
 
 
 ### Dashboard
